@@ -1,0 +1,17 @@
+{
+  "name": "job-finder",
+  "version": "1.0.0",
+  "description": "Search live job postings via freehire.me's public API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^18.0.8",
+    "express": "^5.3.0"
+  }
+}
